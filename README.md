@@ -1,12 +1,9 @@
-# discordembedbot
-A Discord Embed Bot which Comes with Various types of Commands!
+# EmbedBot
+This is a Discord Bot I created to send embedded messages with commands! Written in Discord.js 12
 
-# Tutorial
-A Detailed Tutorial for Self Hosting this Bot has been Uploaded on our YouTube <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Channel!
-Click [Here]() to Watch It!
-
-# Self Hosting
-[![Run on Repl.it](https://repl.it/badge/github/allboutdiscord/discordembedbot)](https://repl.it/github/allboutdiscord/discordembedbot)
-#
-
-Made with :heart: and JavaScript!
+# Setup
+Before downloading the bot files, install [node.js](https://nodejs.org/en/download/).
+Then download the repo to your computer.
+Run `npm install`
+Open the config.json file and modify it to your configuration.
+Finally, run **Startbot.bat** and the bot should start up!
