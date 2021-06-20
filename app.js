@@ -20,8 +20,8 @@ if (message.content.startsWith(config.prefix + "help")) {
 	const about = new Discord.MessageEmbed()
 	.setColor('#16ec50')
 	.setTitle('EmbedBot')
-	.setDescription('These are the current EmbedBot Commands!')
-	.setAuthor('Created by Nemil', 'https://i.imgur.com/lKuBaAt.png', '')
+	.setDescription('This Bot is Created By [All About Discord](https://discord.gg/9R4MTWXxX5)\n\nAvailable Commands for the Bot are given Below:\!')
+	.setAuthor('© All Bout Discord', 'https://i.imgur.com/lKuBaAt.png', '')
 	.addFields(
 		{ name: 'Send embed', value: `${config.prefix}embed Title_Message`},
 		{ name: 'Send custom colour embed (In HEX or HTML Colour Names)', value: `${config.prefix}colourembed Colour_Title_Message`},
