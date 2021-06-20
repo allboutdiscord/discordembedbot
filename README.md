@@ -7,3 +7,6 @@ Click [Here]() to Watch It!
 
 # Self Hosting
 [![Run on Repl.it](https://repl.it/badge/github/allboutdiscord/discordembedbot)](https://repl.it/github/allboutdiscord/discordembedbot)
+#
+
+Made with :heart: and JavaScript!
